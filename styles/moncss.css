@@ -1,0 +1,32 @@
+
+body{
+    background-color: #d2e6f0;
+}
+.container.form1{
+    margin: 100px 0px 100px 300px;
+}
+
+.container .maringInte h4{
+    margin-top: 60px;
+}
+
+.container .panel .logo{
+    height: 45px;
+    width: 45px;
+    position: absolute;
+    left: 10px;
+    margin-top: -23px;
+}
+.container .panel-body .message{
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    color: #999999;
+}
+
+.container .image1{
+    margin-left: -20px;
+}
+.panel{
+    margin-right: none;
+}
